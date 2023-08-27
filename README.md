@@ -3,11 +3,11 @@
 
 Welcome to the "Color-Changing Circle with Shape Toggle" project! This is a simple HTML, CSS, and JavaScript project that demonstrates dynamic interactivity on a webpage. The project features a circle that can change color and shape, allowing you to explore the basics of web development and interaction.
 
-![Project Demo](project-demo.png)
+
 
 ## Hosted Link
 
-You can access the live demo of this project using the following link: ()
+You can access the live demo of this project using the following link: (https://vikaspdsp.github.io/Assignment10-a-/)
 
 ## Overview
 
